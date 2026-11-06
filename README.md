@@ -30,5 +30,5 @@ Como analista de datos deportivos, busqué responder:
 *   Jugadores como **Adrian Niño (Málaga)** y **Yassir Zabiri (Racing)** presentan métricas de eficiencia superiores al promedio, lo que los convierte en objetivos de scouting interesantes para equipos de mayor presupuesto.
 
 ---
-*Análisis realizado por DJimenez71 como parte de mi portafolio de análisis de datos deportivos.*
+*Análisis realizado por Daniela Jimenez como parte de mi portafolio de análisis de datos deportivos.*
 *6 de noviembre de 2026*
