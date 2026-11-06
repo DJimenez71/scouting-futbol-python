@@ -1,6 +1,6 @@
 """
 ANÁLISIS DE SCOUTING: DELANTEROS MÁS LETALES - LA LIGA
-Autor: DJimenez71
+Autor: Daniela Jimenez
 Fecha: 6 de Noviembre 2026
 Descripción: Este script carga un dataset de'Football Players Stats 2026-2027' de Kaggle 
 (recopilados originalmente de FBref).", filtra a los delanteros de La Liga con más de 
