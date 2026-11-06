@@ -16,7 +16,7 @@ Como analista de datos deportivos, busqué responder:
 *   **VS Code** como entorno de desarrollo.
 
 ## 📊 Visualización Destacada
-![Mapa de Letalidad](images/scatter_letalidad_laliga.png)
+![Mapa de Letalidad](scatter_letalidad_laliga.png)
 
 *El gráfico muestra en el eje X los tiros por 90 minutos y en el eje Y la eficiencia (goles por tiro). Raphinha destaca en la esquina superior derecha como el jugador más letal y con mayor volumen de tiro.*
 
