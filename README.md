@@ -3,6 +3,8 @@
 ## 📌 Descripción del Proyecto
 Este proyecto utiliza Python y la librería Pandas para analizar datos de rendimiento de jugadores de fútbol. El objetivo es identificar a los delanteros más eficientes de La Liga, evaluando no solo su cantidad de goles, sino su relación de goles por disparo (G/Sh) y su volumen de tiro por partido (Sh/90).
 
+"Nota metodológica: Los datos analizados corresponden a la fecha de descarga del dataset (Noviembre de 2026). Al ser una temporada en curso, las métricas son parciales y pueden variar a medida que avancen las jornadas."
+
 ## 🎯 Preguntas de Negocio (Insights)
 Como analista de datos deportivos, busqué responder:
 1. ¿Quiénes son los delanteros más letales (eficientes) de la liga?
